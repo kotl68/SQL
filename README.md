@@ -2,6 +2,6 @@
 Здесь я буду выкладывать свои ноутбуки с решениями SQL запросов с разных учебных сайтов
 | Сайт | Решено | Всего | Ссылка для быстрого перехода к ноутбуку |
 | :------------ | :------------ | :------------ | :------------ |
-| [sql-ex](https://www.sql-ex.ru/) | 41 | 141 | [Переход](https://github.com/kotl68/SQL/blob/main/SQL-EX.ipynb) |
+| [sql-ex](https://www.sql-ex.ru/) | 46 | 141 | [Переход](https://github.com/kotl68/SQL/blob/main/SQL-EX.ipynb) |
 | [sql-ex DML](https://www.sql-ex.ru/) | 0 | 43 | Пока не делал |
 | [sql-academy](https://sql-academy.org/ru) | 63 | 64 | В процессе добавления |
