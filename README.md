@@ -5,3 +5,4 @@
 | [sql-ex](https://www.sql-ex.ru/) | 62 | 141 | [Ноутбук](https://github.com/kotl68/SQL/blob/main/SQL-EX.ipynb) |
 | [sql-ex DML](https://www.sql-ex.ru/) | 0 | 43 | Пока не делал |
 | [sql-academy](https://sql-academy.org/ru) | 63 | 64 | В процессе добавления |
+| [stepik "Интерактивный тренажер по SQL"](https://stepik.org/course/63054/syllabus) | 139 | 169 | В процессе добавления |
